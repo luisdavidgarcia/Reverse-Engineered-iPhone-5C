@@ -11,6 +11,7 @@
 </ul>  
 
 <h2>Motivation for the Project</h2>
+
 During my winter break, I decided to open my iPhone 5C, which I had since freshman year in high 
 school until I dropped it on the garage floor and the front screen completely shattered. However, 
 out of curiosity and an attempt to understand how iPhones are designed I got my screwdrivers and 
