@@ -8,7 +8,7 @@
   <li>Screw Driver Set for Small Phone Screws</li>
   <li>Plastic Bag for Discarding of Components</li>
   <li>Magnifying Glass to Read Text on Components</li>
-<ul>  
+</ul>  
 
 <h2>Motivation for the Project</h2>
 During my winter break, I decided to open my iPhone 5C, which I had since freshman year in high 
