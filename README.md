@@ -2,6 +2,15 @@
 
 <img src="images/iPhone5Cgallery.png">
 
+<h2>Tools</h2>
+<ul>
+  <li>Tweezers</li>
+  <li>Screw Driver Set for Small Phone Screws</li>
+  <li>Plastic Bag for Discarding of Components</li>
+  <li>Magnifying Glass to Read Text on Components</li>
+<ul>  
+
+<h2>Motivation for the Project</h2>
 During my winter break, I decided to open my iPhone 5C, which I had since freshman year in high 
 school until I dropped it on the garage floor and the front screen completely shattered. However, 
 out of curiosity and an attempt to understand how iPhones are designed I got my screwdrivers and 
@@ -12,4 +21,3 @@ studied the lithium battery and speakers. However, in the end I discarded all th
 putting them in a plastic bag and disposing them at the Electronic Waste area at Best Buy. Although, 
 unsatisfied at only seeing the battery, cameras, and speakers I know next time I will take more time 
 to take account of the names of components and research them me thoroughly.
-
