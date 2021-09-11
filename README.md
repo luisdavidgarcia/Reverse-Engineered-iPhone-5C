@@ -1,8 +1,8 @@
 <h1> Reverse-Engineered-iPhone-5C </h1>
 
-<img src="Opened5C.png">
-<img src="Empty5C.png">
-<img src="Gutted5C.png">
+<img src="images/Opened5C.png">
+<img src="images/Empty5C.png">
+<img src="images/Gutted5C.png">
 
 During my winter break, I decided to open my iPhone 5C, which I had since freshman year in high 
 school until I dropped it on the garage floor and the front screen completely shattered. However, 
