@@ -1,4 +1,4 @@
-<h1> Reverse-Engineered-iPhone-5C ⚡ </h1>
+<h1> Reverse-Engineered-iPhone-5C 📱 </h1>
 
 <img src="images/iPhone5Cgallery.png">
 
